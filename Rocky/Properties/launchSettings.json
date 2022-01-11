@@ -1,4 +1,6 @@
 ﻿{
+  // perfiles de ejecucion
+  // tambien se pueden ver en Propiedades -> Debug
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
